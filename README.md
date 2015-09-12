@@ -24,7 +24,7 @@ Independent third parties may generate their own bootstrap.dat, up to a recent h
 
 Okay, tell me where do I get it?
 
-You can download the files below, but please refer to the WIKI for installation instructions.
+You can download the files below.
 
 ZIP : https://github.com/Groestlcoin/bootstrap/releases/download/latest/bootstrap.dat.zip
 
