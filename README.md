@@ -26,7 +26,9 @@ Okay, tell me where do I get it?
 
 You can download the files below.
 
-ZIP : https://github.com/Groestlcoin/bootstrap/releases/download/latest/bootstrap.dat.zip
+DAT : https://github.com/Groestlcoin/bootstrap/releases/download/latest/bootstrap.dat
+
+ZIP : https://github.com/Groestlcoin/bootstrap/releases/download/latest/bootstrap.zip
 
 MD5 : https://github.com/Groestlcoin/bootstrap/releases/download/latest/md5.txt
 
