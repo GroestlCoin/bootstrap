@@ -32,4 +32,4 @@ MD5 : https://github.com/Groestlcoin/bootstrap/releases/download/latest/md5.txt
 
 SHA256 : https://github.com/Groestlcoin/bootstrap/releases/download/latest/sha256.txt
 
-Updated on 12th September; Block 756389
+Updated on 20th February; Block 977319
